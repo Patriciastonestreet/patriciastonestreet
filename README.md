@@ -1,7 +1,7 @@
  Hi there! Im Patricia Stonestreet 👋
 
 
-- 📖 I'm self taught
+- 📖 I'm self taught developer
 - 💻 I’m currently learning React
 - ⚡ Fun fact: I love potato chips
  <div>
