@@ -1,5 +1,5 @@
-![patricia stonestreet (1)](https://user-images.githubusercontent.com/99422533/179338354-8452e752-7776-4fba-a303-7d3fc84d1118.gif)
 
+![patricia stonestreet (1)](https://user-images.githubusercontent.com/99422533/179338593-a4ccb0ed-8abc-451b-83e6-b39ee4f3597e.png)
 <h3> Hi there! Im Patricia Stonestreet 👋 </h3>
 - 📖 I'm self taught developer
 - 💻 I’m currently learning React
