@@ -1,6 +1,4 @@
-
-
-![patricia stonestreet](https://user-images.githubusercontent.com/99422533/179337854-64d9768d-6a00-40fc-bf9c-733c62b40ffb.gif)
+![patricia stonestreet (1)](https://user-images.githubusercontent.com/99422533/179338354-8452e752-7776-4fba-a303-7d3fc84d1118.gif)
 
 <h3> Hi there! Im Patricia Stonestreet 👋 </h3>
 - 📖 I'm self taught developer
